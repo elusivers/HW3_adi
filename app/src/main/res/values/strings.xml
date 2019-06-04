@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">HW3</string>
+    <string name="infbanner">Cover the light sensor to get an answer</string>
+
+    <string-array name="answers">
+        <item> It is\ncertain.</item>
+        <item>My sources\nsay no.</item>
+        <item>Ask again\nlater.</item>
+        <item>Yes -\ndefinitely.</item>
+        <item>You may\nrely on it.</item>
+        <item>As I see\nit, yes.</item>
+        <item>Most\nlikely.</item>
+        <item>Outlook\ngood.</item>
+        <item>Yes.</item>
+        <item>Better\nnot tell\nyou now.</item>
+        <item>Do not count\non it.</item>
+        <item>My reply\nis no.</item>
+        <item>Cannot\npredict\nnow.</item>
+        <item>Concentrate\nand ask\nagain.</item>
+        <item>Outlook\nnot so\ngood</item>
+        <item>Very\ndoubtful.</item>
+        <item>It is\ndecidedly\nso.</item>
+        <item>Without\na doubt.</item>
+        <item>Signs point\nto yes</item>
+        <item>Reply hazy,\ntry again.</item>
+    </string-array>
+
+</resources>
